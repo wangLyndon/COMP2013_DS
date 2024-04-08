@@ -2,6 +2,6 @@
 
 For Mysql practice: Lab01, Lab02, Lab03
 
-For JDSC practice: Lab04 
+For JDSC practice: Lab04
 
 The project will be upload soon...
